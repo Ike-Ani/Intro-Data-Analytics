@@ -24,13 +24,6 @@ Students apply both **parametric and non-parametric statistical tests** and buil
 - Manufacturing
 - Natural Sciences
 
-Commonly used analytics tools include:
-
-- Python
-- R
-- SPSS
-- Tableau
-
 ## Topics Covered
 
 - Data analysis lifecycle
