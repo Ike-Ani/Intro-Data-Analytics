@@ -60,5 +60,3 @@ After completing this course, I developed the ability to:
 - Build predictive models using regression techniques
 - Manipulate and analyze datasets using modern analytics tools
 - Interpret results and communicate data-driven insights
-
-## Repository Structure
